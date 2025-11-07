@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TrippHopkins: a 15-year-old upcoming robotics engineer and software developer with about one month of experience.
+- 👋 Hi, I’m @TrippHopkins: a 16-year-old upcoming robotics engineer and software developer.
 - 👀 I’m interested in Video Games and Coding
 - 🌱 I’m currently learning C++ and Hardware development
 - 📫 How to reach me: tripphopkins13245@gmail.com
